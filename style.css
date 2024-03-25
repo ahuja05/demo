@@ -1,0 +1,17 @@
+body{
+    background-color: darkslategray;
+
+}
+
+div{
+    text-align: center;
+    border: 10px solid black;
+    
+
+}
+
+div:hover{
+    transform: scale(1.2);
+    transition: 0.5s;
+    
+}
